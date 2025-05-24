@@ -33,14 +33,13 @@
 <h2>Stats: </h2>
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysticslippers&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysticslippers" />
   </a>
-</div>
-<div>
   <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">
     <img src="https://leetcard.jacoblin.cool/mysticslippers?theme=dark&font=Carme" />
   </a>
 </div>
+<div></div>
 <div>
   <a href="https://www.codewars.com/users/mysticslippers">
     <img src="https://www.codewars.com/users/mysticslippers/badges/large" />
