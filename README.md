@@ -30,5 +30,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
 </div>
-markdown
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mysticslippers&layout=compact)](https://github.com/mysticslippers/github-readme-stats)
+![mysticslippers's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mysticslippers&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
