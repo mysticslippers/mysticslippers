@@ -31,7 +31,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
 </div>
 <h2>Stats: </h2>
-<div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysticslippers&layout=compac" />
   </a>
@@ -41,4 +40,3 @@
   <a href="https://www.codewars.com/users/mysticslippers">
     <img src="https://www.codewars.com/users/mysticslippers/badges/large" />
   </a>
-</div>
