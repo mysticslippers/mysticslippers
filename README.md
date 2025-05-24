@@ -33,7 +33,7 @@
 <h2>Stats: </h2>
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysticslippers" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysticslippers&layout=compact" />
   </a>
   <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">
     <img src="https://leetcard.jacoblin.cool/mysticslippers?theme=dark&font=Carme" />
