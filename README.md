@@ -30,8 +30,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
 </div>
+<h2>Stats: </h2>
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysticslippers&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysticslippers&layout=compac" />
+  </a>
+  <a href="https://github.com/KnlnKS/leetcode-stats">
+    <img src="https://leetcode-stats-six.vercel.app/api?username=mysticslippers&theme=dark" />
+  </a>
+  <a href="https://www.codewars.com/users/mysticslippers">
+    <img src="https://www.codewars.com/users/mysticslippers/badges/large" />
   </a>
 </div>
