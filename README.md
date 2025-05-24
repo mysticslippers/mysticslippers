@@ -31,5 +31,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
 </div>
 <div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mysticslippers)](https://github.com/mysticslippers/github-readme-stats)
+</div>
+<div>
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mysticslippers)](https://github.com/mysticslippers/github-readme-stats)
+</div>
+<div>
+  [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=mysticslippers&them=dark)](https://github.com/mysticslippers/leetcode-stats)
+</div>
+<div>
+  [![codewars](https://www.codewars.com/users/mysticslippers/badges/small)](https://www.codewars.com/users/mysticslippers) 
 </div>
