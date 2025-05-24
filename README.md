@@ -30,15 +30,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
 </div>
-<div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/username=mysticslippers&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/mysticslippers/github-readme-stats)
-</div>
-<div>
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mysticslippers)](https://github.com/mysticslippers/github-readme-stats)
-</div>
-<div>
-  [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=mysticslippers&them=dark)](https://github.com/mysticslippers/leetcode-stats)
-</div>
-<div>
-  [![codewars](https://www.codewars.com/users/mysticslippers/badges/small)](https://www.codewars.com/users/mysticslippers) 
-</div>
+![mysticslippers's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mysticslippers&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
