@@ -37,8 +37,8 @@
   </a>
 </div>
 <div>
-  <a href="https://github.com/KnlnKS/leetcode-stats">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=mysticslippers&theme=dark" />
+  <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">
+    <img src="https://leetcard.jacoblin.cool/mysticslippers?theme=dark&font=Carme" />
   </a>
 </div>
 <div>
