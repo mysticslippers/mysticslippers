@@ -32,7 +32,7 @@
 </div>
 <h2>Stats: </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysticslippers&layout=compac" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysticslippers&layout=compact" />
 </a>
 <a href="https://github.com/KnlnKS/leetcode-stats">
   <img src="https://leetcode-stats-six.vercel.app/api?username=mysticslippers&theme=dark" />
