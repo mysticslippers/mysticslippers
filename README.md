@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Dmitry Mikhailov <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBsZHRqNGQza295bWE1aXFjNXpuYXFkc2ZrN3drMjc0ZnE3MWQ5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PTBVMsYIOB0SBP4MVe/giphy-downsized.gif" width="100"/>
 </h1>
-<h2>Currently juniour fullstack developer.</h2>
+<h2>Currently juniour backend developer.</h2>
 <ul>
   <li>🔭 I’m currently working on my portfolio adding backend development projects.</li>
   <li>🌱 I’m currently learning Spring framework as main and different other frameworks for frontend development.</li>
