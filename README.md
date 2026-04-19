@@ -66,16 +66,21 @@
 
 ## Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysticslippers&layout=compact" alt="Top Languages"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mysticslippers&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysticslippers&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p>
-  <img src="https://leetcard.jacoblin.cool/mysticslippers?theme=dark&font=Carme" alt="LeetCode Stats"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mysticslippers&theme=tokyonight" alt="GitHub streak" />
 </p>
 
-<p>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mysticslippers?theme=dark&font=Carme" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
   <a href="https://www.codewars.com/users/mysticslippers">
-    <img src="https://www.codewars.com/users/mysticslippers/badges/large" alt="Codewars badge"/>
+    <img src="https://www.codewars.com/users/mysticslippers/badges/large" alt="Codewars badge" />
   </a>
 </p>
