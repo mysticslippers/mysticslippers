@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBsZHRqNGQza295bWE1aXFjNXpuYXFkc2ZrN3drMjc0ZnE3MWQ5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PTBVMsYIOB0SBP4MVe/giphy-downsized.gif" width="80" alt="wave gif"/>
 </h1>
 
-<h3 align="center">Junior Backend Developer</h3>
+<h3 align="center">Backend Developer</h3>
 
 <p align="center">
   I’m building my portfolio with backend-focused projects and improving my skills in Java and Spring.
