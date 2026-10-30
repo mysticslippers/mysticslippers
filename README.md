@@ -22,32 +22,3 @@
 </picture>
 
 [@mysticslippers](https://t.me/mysticslippers) · [mikhailov.fw@yandex.ru](mailto:mikhailov.fw@yandex.ru)
-
-<details>
-<summary>Profile data (JSON)</summary>
-
-```json
-{
-  "name": "Dmitry Mikhailov",
-  "role": "Fullstack Developer",
-  "languages": [
-    "Java",
-    "Go",
-    "TypeScript"
-  ],
-  "stack": [
-    "Spring Boot",
-    "React",
-    "Redux",
-    "Tailwind CSS",
-    "Sass"
-  ],
-  "interests": [
-    "Billiards",
-    "D&D",
-    "Literature"
-  ]
-}
-```
-
-</details>
