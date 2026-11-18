@@ -14,8 +14,8 @@
 <p>
   <a href="https://github.com/mysticslippers?tab=repositories">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=mysticslippers&amp;hide=jupyter%20notebook,tex&amp;layout=compact&amp;langs_count=8&amp;card_width=495&amp;hide_border=true&amp;disable_animations=true&amp;bg_color=0d1117&amp;title_color=80cfff&amp;text_color=e6edf3" />
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mysticslippers&amp;hide=jupyter%20notebook,tex&amp;layout=compact&amp;langs_count=8&amp;card_width=495&amp;hide_border=true&amp;disable_animations=true&amp;bg_color=ffffff&amp;title_color=0969da&amp;text_color=1f2328" width="395" alt="Most used languages across public GitHub repositories" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=mysticslippers&amp;hide=jupyter%20notebook&amp;layout=compact&amp;langs_count=8&amp;card_width=495&amp;hide_border=true&amp;disable_animations=true&amp;bg_color=0d1117&amp;title_color=80cfff&amp;text_color=e6edf3" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mysticslippers&amp;hide=jupyter%20notebook&amp;layout=compact&amp;langs_count=8&amp;card_width=495&amp;hide_border=true&amp;disable_animations=true&amp;bg_color=ffffff&amp;title_color=0969da&amp;text_color=1f2328" width="395" alt="Most used languages across public GitHub repositories" />
     </picture>
   </a>
   <a href="https://github.com/mysticslippers#year-list-container">
